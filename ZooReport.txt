@@ -1,0 +1,228 @@
+Zoo Population Report
+----------------------
+Habitat: Hyena
+----------------------
+Name: Shenzi
+ID: Hy01
+Birthday: 2018-03-01
+
+Name: Banzai
+ID: Hy02
+Birthday: 2018-03-01
+
+Name: Ed
+ID: Hy03
+Birthday: 2018-03-01
+
+Name: Zig
+ID: Hy04
+Birthday: 2018-03-01
+
+Name: Bud
+ID: Hy05
+Birthday: 2018-03-01
+
+Name: Lou
+ID: Hy06
+Birthday: 2018-03-01
+
+Name: Kamari
+ID: Hy07
+Birthday: 2018-03-01
+
+Name: Wema
+ID: Hy08
+Birthday: 2018-03-01
+
+Name: Nne
+ID: Hy09
+Birthday: 2018-03-01
+
+Name: Madoa
+ID: Hy10
+Birthday: 2018-03-01
+
+Name: Prince Nevarah
+ID: Hy11
+Birthday: 2018-03-01
+
+Habitat: Lion
+----------------------
+Name: Scar
+ID: Li01
+Birthday: 2012-09-01
+
+Name: Mufasa
+ID: Li02
+Birthday: 2012-09-01
+
+Name: Simba
+ID: Li03
+Birthday: 2012-09-01
+
+Name: Kiara
+ID: Li04
+Birthday: 2012-09-01
+
+Name: King
+ID: Li05
+Birthday: 2012-09-01
+
+Name: Drooper
+ID: Li06
+Birthday: 2012-09-01
+
+Name: Kimba
+ID: Li07
+Birthday: 2012-09-01
+
+Name: Nala
+ID: Li08
+Birthday: 2012-09-01
+
+Name: Leo
+ID: Li09
+Birthday: 2012-09-01
+
+Name: Samson
+ID: Li10
+Birthday: 2012-09-01
+
+Name: Elsa
+ID: Li11
+Birthday: 2012-09-01
+
+Name: Cecil
+ID: Li12
+Birthday: 2012-09-01
+
+Habitat: Bear
+----------------------
+Name: Yogi
+ID: Be01
+Birthday: 1997-03-01
+
+Name: Smokey
+ID: Be02
+Birthday: 1997-03-01
+
+Name: Paddington
+ID: Be03
+Birthday: 1997-03-01
+
+Name: Lippy
+ID: Be04
+Birthday: 1997-03-01
+
+Name: Bungle
+ID: Be05
+Birthday: 1997-03-01
+
+Name: Baloo
+ID: Be06
+Birthday: 1997-03-01
+
+Name: Rupert
+ID: Be07
+Birthday: 1997-03-01
+
+Name: Winnie the Pooh
+ID: Be08
+Birthday: 1997-03-01
+
+Name: Snuggles
+ID: Be09
+Birthday: 1997-03-01
+
+Name: Bert
+ID: Be10
+Birthday: 1997-03-01
+
+Habitat: Tiger
+----------------------
+Name: Tony
+ID: Ti01
+Birthday: 2019-03-01
+
+Name: Tigger
+ID: Ti02
+Birthday: 2019-03-01
+
+Name: Amber
+ID: Ti03
+Birthday: 2019-03-01
+
+Name: Cosimia
+ID: Ti04
+Birthday: 2019-03-01
+
+Name: Cuddles
+ID: Ti05
+Birthday: 2019-03-01
+
+Name: Dave
+ID: Ti06
+Birthday: 2019-03-01
+
+Name: Jiba
+ID: Ti07
+Birthday: 2019-03-01
+
+Name: Rajah
+ID: Ti08
+Birthday: 2019-03-01
+
+Name: Rayas
+ID: Ti09
+Birthday: 2019-03-01
+
+Name: Ryker
+ID: Ti10
+Birthday: 2019-03-01
+
+Habitat: Miscellaneous
+----------------------
+Name: Hyena (Friguia Park, Tunisia)
+ID: Hy12
+Birthday: 2018-03-01
+
+Name: Hyena (Friguia Park, Tunisia)
+ID: Hy13
+Birthday: 2010-09-01
+
+Name: Hyena (Friguia Park, Tunisia)
+ID: Hy14
+Birthday: 2018-03-01
+
+Name: Hyena (Friguia Park, Tunisia)
+ID: Hy15
+Birthday: 2016-01-01
+
+Name: Lion (Zanzibar, Tanzania)
+ID: Li13
+Birthday: 2018-03-01
+
+Name: Lion (KopeLion, Tanzania)
+ID: Li14
+Birthday: 2010-12-01
+
+Name: Lion (Zanzibar, Tanzania)
+ID: Li15
+Birthday: 2000-09-01
+
+Name: Lion (KopeLion, Tanzania)
+ID: Li16
+Birthday: 2018-03-01
+
+Name: Tiger (Dhaka, Bangladesh)
+ID: Ti11
+Birthday: 2020-03-01
+
+Name: Tiger (Dhaka, Bangladesh)
+ID: Ti12
+Birthday: 2018-03-01
+
+Name: Tiger (Bardia, Nepal)
+ID: Ti13
+Birthday: 2006-09-01
+
